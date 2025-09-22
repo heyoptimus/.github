@@ -1,6 +1,12 @@
-## Optimus Labs 👋
+## Hey! Welcome.
+## We at Optimus Labs 👋
+### We build sleek, superior & Simple Apps.
+
+
 
 <!--
+
+
 
 **Here are some ideas to get you started:**
 
